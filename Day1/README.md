@@ -37,11 +37,17 @@ Front end Development - Main File Types
 1. HTML
 As the main file type loaded in browsers, HyperText Markup Language (HTML) serves as the foundation of all websites. It defines the structure of a website regardless of how simple or complex the site is. It uses tags to indicate how text, images, and other content should be displayed. You can create a simple static website with HTML alone.
 
-Crash Course Link -> [Part 1](https://www.youtube.com/watch?v=JLKy8apeLac&list=PL2kSRH_DmWVbKFpYn3drI8Qf66ZpvZ_3L&index=2)
-
+  Crash Course Links
+  -> [HTML - Part 1](https://www.youtube.com/watch?v=JLKy8apeLac&list=PL2kSRH_DmWVbKFpYn3drI8Qf66ZpvZ_3L&index=2)
+  -> [HTML - Part 2](https://www.youtube.com/watch?v=ZYbajSqMrN4&list=PL2kSRH_DmWVbKFpYn3drI8Qf66ZpvZ_3L&index=3)
 
 2. CSS
 To enhance the visual appeal of a website, developers often use Cascading Style Sheets (CSS) along with HTML. CSS is a coding language for styling and customizing web pages. You can use it to add custom fonts and colors, change the layout, and improve the aesthetics of your site.
+
+  Crash Course Links
+  -> [CSS](https://www.youtube.com/watch?v=WEZJvQf3nH0&list=PL2kSRH_DmWVbKFpYn3drI8Qf66ZpvZ_3L&index=4)
+  -> [CSS - Bootstrap](https://www.youtube.com/watch?v=ZYbajSqMrN4&list=PL2kSRH_DmWVbKFpYn3drI8Qf66ZpvZ_3L&index=6)
+
 
 #### 3. JavaScript
 To make a website more dynamic, you need JavaScript. This programming language adds interactive elements that respond to user inputs such as click buttons and search queries. It becomes crucial when user engagement is important to meet the goals of the website. 
