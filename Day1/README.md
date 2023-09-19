@@ -3,7 +3,7 @@
 ### What is web development?
 Web development is a blanket term for everything that has to do with building a website. It encompasses markup, coding, scripting, network configuration, CMS development, eCommerce development, and all other related development tasks. Everything that is accessible in your browser is a product of web development.
 
-### Web Basics
+### Web and Internet Basics
 Before you can develop a simple blog or a business website, you need to understand how websites work. Basically, a website is a set of files stored on a server and accessed by a client using a browser such as Safari, Chrome, and Firefox. There are two key terms here that you should know how to distinguish: server and client.
 
 ### Client vs. Server
@@ -37,40 +37,5 @@ Front end Development - Main File Types
 ###### 1. HTML
 As the main file type loaded in browsers, HyperText Markup Language (HTML) serves as the foundation of all websites. It defines the structure of a website regardless of how simple or complex the site is. It uses tags to indicate how text, images, and other content should be displayed. You can create a simple static website with HTML alone.
 
-  ###### Crash Course Links
-  1. [HTML - Part 1](https://www.youtube.com/watch?v=JLKy8apeLac&list=PL2kSRH_DmWVbKFpYn3drI8Qf66ZpvZ_3L&index=2)
-  2. [HTML - Part 2](https://www.youtube.com/watch?v=ZYbajSqMrN4&list=PL2kSRH_DmWVbKFpYn3drI8Qf66ZpvZ_3L&index=3)
-
 ###### 2. CSS
 To enhance the visual appeal of a website, developers often use Cascading Style Sheets (CSS) along with HTML. CSS is a coding language for styling and customizing web pages. You can use it to add custom fonts and colors, change the layout, and improve the aesthetics of your site.
-
-  ####### Crash Course Links
-  1. [CSS](https://www.youtube.com/watch?v=WEZJvQf3nH0&list=PL2kSRH_DmWVbKFpYn3drI8Qf66ZpvZ_3L&index=4)
-  2. [CSS - Bootstrap](https://www.youtube.com/watch?v=ZYbajSqMrN4&list=PL2kSRH_DmWVbKFpYn3drI8Qf66ZpvZ_3L&index=6)
-
-
-#### 3. JavaScript
-To make a website more dynamic, you need JavaScript. This programming language adds interactive elements that respond to user inputs such as click buttons and search queries. It becomes crucial when user engagement is important to meet the goals of the website. 
-
-## Introduction To Javascript 
-
-![image](https://github.com/prem18git/webdevelopment-level-2/assets/131329044/88ba9d76-b8db-47a8-8196-010b209976d0)
-
-JavaScript is one of the most used languages when it comes to building web applications as it allows developers to wrap HTML and CSS code in it to make web apps interactive. It enables the interaction of users with the web application. It is also used for making animations on websites and has a large community on GitHub. JavaScript has tons of libraries, one of which is React, Express, next
-
-Client-side scripting
-Client-side scripting is when the server sends the code along with the HTML web page to the client. The script is referred to by the code.
-
-In other words, client-side scripting is a method for browsers to run scripts without having to connect to a server.
-
-The code runs on the client’s computer’s browser either while the web page is loading or after it has finished loading.
-
-Client-side scripting is mostly used for dynamic user interface components including pull-down menus, navigation tools, animation buttons, and data validation.
-
-It is currently quickly expanding and evolving on a daily basis. As a result, creating client-side web programming has become easier and faster, lowering server demand.
-
-By far the most popular client-side scripting languages or web scripting languages, JavaScript and jQuery are frequently utilized to construct dynamic and responsive webpages and websites.
-
-The browser downloads the code to the local machine (temporarily) and begins processing it without the server. As a result, client-side scripting is browser-specific.
-
-![image](https://github.com/prem18git/webdevelopment-level-2/assets/131329044/f620d737-770d-4de1-9519-58c3280bd8a9)
